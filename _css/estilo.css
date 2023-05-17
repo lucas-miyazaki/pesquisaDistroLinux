@@ -10,7 +10,7 @@ body {
 header {
   background-color: #12ebb8;
   color: #fff;
-  padding: 20px;
+  padding: 5vh;
 }
 
 /* Estilo para o título principal */
@@ -21,7 +21,7 @@ h1 {
 /* Estilo para a tabela */
 table {
   border-collapse: collapse;
-  margin: 20px;
+  margin: 5%;
   width: 80%;
   background-color: #ffffff;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
@@ -56,14 +56,14 @@ section {
 h2 {
   margin: 0;
   color: #09a272;
-  font-size: 24px;
-  margin-bottom: 10px;
+  font-size: 5%;
+  margin-bottom: 2%;
 }
 
 /* Estilo para os subtítulos das seções */
 h3 {
-  margin-top: 20px;
-  font-size: 18px;
+  margin-top: 2%;
+  font-size: 2%;
   font-weight: bold;
 }
 
@@ -76,8 +76,8 @@ h3 {
 }
 
 .Galeria img {
-  margin: 10px;
-  width: 300px;
+  margin: 2%;
+  width: 20vw;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
