@@ -1,0 +1,93 @@
+/* Estilo para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F5F5F5;
+}
+
+/* Estilo para o cabeçalho */
+header {
+  background-color: #12ebb8;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Estilo para o título principal */
+h1 {
+  margin: 0;
+}
+
+/* Estilo para a tabela */
+table {
+  border-collapse: collapse;
+  margin: 20px;
+  width: 80%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Estilo para o cabeçalho da tabela */
+thead {
+  background-color: #E0E0E0;
+}
+
+/* Estilo para as células da tabela */
+td, th {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Estilo para as células de matrícula da tabela */
+td:nth-child(2) {
+  text-align: center;
+}
+
+/* Estilo para a seção de informações sobre o Linux Mint */
+section {
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  padding: 20px;
+}
+
+/* Estilo para o título das seções */
+h2 {
+  margin: 0;
+  color: #09a272;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para os subtítulos das seções */
+h3 {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Estilo para as imagens da galeria */
+.Galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.Galeria img {
+  margin: 10px;
+  width: 300px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Estilo para o link de download */
+a {
+  color: #4285F4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
